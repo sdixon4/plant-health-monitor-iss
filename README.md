@@ -10,6 +10,9 @@ This repository documents a senior capstone project submitted to the NASA EPSCoR
 - Operate within ISS constraints: low crew time, low power (<3W), 3U volume.
 - Transition to radiation-hardened FPGA systems post-prototype (e.g., Xilinx XQRKU060).
 
-## Repository Structure
+## System Architecture Overview
 
+![System Block Diagram](system-diagram.png)
+
+This block diagram shows the full autonomous pipeline for the plant health monitoring system, including sensor inputs, onboard AI logic, safety controls, and responsive outputs.
 
