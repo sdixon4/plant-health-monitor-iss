@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Shelby Dixon",
+	"description":	{
+		"":	"Creates removable 2 mm lid for HELEN enclosure"
+	},
+	"version":	"",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}
